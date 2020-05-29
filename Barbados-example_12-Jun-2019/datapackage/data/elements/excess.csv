@@ -1,0 +1,2 @@
+name,bus,carrier,tech,marginal_cost,type
+BB_excess,BB_bus_el,electricity,slack,0,excess

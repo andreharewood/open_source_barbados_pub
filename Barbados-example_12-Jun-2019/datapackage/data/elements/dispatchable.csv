@@ -1,0 +1,15 @@
+name,bus,carrier,tech,marginal_cost,capacity,type
+BB_S1,BB_bus_el,hfo,steam,520.48496,20.00,dispatchable
+BB_S2,BB_bus_el,hfo,steam,520.48496,20.00,dispatchable
+BB_D10,BB_bus_el,hfo,lsd,350.04536,12.50,dispatchable
+BB_D11,BB_bus_el,hfo,lsd,350.04536,12.50,dispatchable
+BB_D12,BB_bus_el,hfo,lsd,350.04536,12.50,dispatchable
+BB_D13,BB_bus_el,hfo,lsd,350.04536,12.50,dispatchable
+BB_D14,BB_bus_el,hfo,lsd,303.12492,29.70,dispatchable
+BB_D15,BB_bus_el,hfo,lsd,303.12492,29.70,dispatchable
+BB_GT02,BB_bus_el,diesel,gt,695.61604,13.00,dispatchable
+BB_GT03,BB_bus_el,diesel,gt,678.38604,13.00,dispatchable
+BB_GT04,BB_bus_el,kerosine,gt,693.31117,20.00,dispatchable
+BB_GT05,BB_bus_el,kerosine,gt,693.34117,20.00,dispatchable
+BB_GT06,BB_bus_el,diesel,gt,644.33041,20.00,dispatchable
+BB_Biomass,BB_bus_el,bagasse,steam,1000,18.00,dispatchable

@@ -1,0 +1,4 @@
+name,bus,carrier,tech,profile,capacity,type
+BB_wind,BB_bus_el,wind,onshore,BB_wind_profile,219,volatile
+BB_pv_utility,BB_bus_el,solar,pv,BB_pv_utility_profile,129.21,volatile
+BB_pv_distributed,BB_bus_el,solar,pv,BB_pv_distributed_profile,89.79,volatile
