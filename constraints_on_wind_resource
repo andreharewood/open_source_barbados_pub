@@ -1,0 +1,87 @@
+This is the model with the contraints placed on the wind resource to observe the changes on the energy  system. The contraints we as follows: 
+
+One contraint
+Only the Carbon dioxide emissions 
+Scenario 1 Constraint on the CO2 emmisions in tonnes of CO2
+500,000
+Unrestricted 
+
+scenario 2 
+100,000
+Partial 
+
+Senario 3 
+50,000
+High restriction
+
+New model 
+New scenarios with two contraints 
+Constraints were placed on the carbon dioixde emmisions and the wind capacity potentials
+
+
+
+scenario- 1 with two constraints were as followed- a high constraint was placed on the carbon dioxide and the wind potential
+
+Carbon dioxide emission 
+10,000 tonnes of CO2
+
+80% the peak demand (MW) 
+164
+
+The reduction and containt placed on the wind potential (MW)
+310
+
+The composition of the wind potnetial after the contraint was placed were as followed: 
+
+Zones 
+The reduction and containt placed on the wind potential (MW)
+310
+BB_wind_onshore_profile_zone_1
+68
+BB_wind_onshore_profile_zone_2
+66
+BB_wind_onshore_profile_zone_3
+60
+BB_wind_onshore_profile_zone_4
+68
+BB_wind_onshore_profile_zone_5
+48
+BB_wind_onshore_profile_zone_6
+0
+BB_wind_onshore_profile_zone_7
+0
+
+This is the scenario that is in the data file of the model that was uploaded to github.
+
+
+
+Scenario 2 with two contraints were as followed: relaxed/low CO2 constraint and a high constraint on the wind potential
+
+Carbon dioxide emission 
+500,000 tonnes of CO2
+
+80% the peak demand (MW) 
+164
+
+The reduction and containt placed on the wind potential (MW)
+310
+
+The composition of the wind potnetial after the constraint were as followed: 
+Zones 
+Total 
+310
+BB_wind_onshore_profile_zone_1
+68
+BB_wind_onshore_profile_zone_2
+66
+BB_wind_onshore_profile_zone_3
+60
+BB_wind_onshore_profile_zone_4
+68
+BB_wind_onshore_profile_zone_5
+48
+BB_wind_onshore_profile_zone_6
+0
+BB_wind_onshore_profile_zone_7
+0
+
