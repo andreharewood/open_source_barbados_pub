@@ -37,7 +37,7 @@ numpy==1.16.3
 # oemof commit ecac61bf1f141000d2ec070ba5562db309ffef77
 openpyxl==2.4.11
 pandas==0.24.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.4.0
 pexpect==4.7.0
 pickleshare==0.7.5
